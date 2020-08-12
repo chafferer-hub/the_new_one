@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/errmsg.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/field_types.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/my_command.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/my_compress.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/my_list.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+sys/types.h
+-
+windows.h
+-
+winsock2.h
+-
+field_types.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/field_types.h
+my_list.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/my_list.h
+mysql_com.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql_com.h
+mysql/client_plugin.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/client_plugin.h
+mysql_version.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql_version.h
+mysql_time.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql_time.h
+errmsg.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/errmsg.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/client_plugin.h
+stdarg.h
+-
+stdlib.h
+-
+plugin_auth_common.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/plugin_auth_common.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/plugin_auth_common.h
+windows.h
+-
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/udf_registration_types.h
+stdbool.h
+-
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql_com.h
+stdbool.h
+-
+stdint.h
+-
+my_command.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/my_command.h
+my_compress.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/my_compress.h
+my_io.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/my_io.h
+mysql/components/services/my_io_bits.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/components/services/my_io_bits.h
+stdbool.h
+-
+mysql/udf_registration_types.h
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/udf_registration_types.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql_time.h
+
+C:/Program Files/MySQL/MySQL Server 8.0/include/mysql_version.h
+
+C:/Users/Chafferer/CLionProjects/fishc/library/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+windows.h
+-
+mysql.h
+-
+
